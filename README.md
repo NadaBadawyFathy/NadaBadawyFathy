@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/nada-badawy-6431902a0/" target="_blank">
     <img src="https://img.shields.io/badge/-Nada-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-   <a href="t.me/@NaDa_1_1" target="_blank">
+   <a href="https://t.me/@NaDa_1_1" target="_blank">
     <img src="https://img.shields.io/badge/Nada-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a> 
   <a href="https://www.facebook.com/profile.php?id=100040850779325&mibextid=ZbWKwL" target="_blank">
