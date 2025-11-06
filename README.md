@@ -1,69 +1,62 @@
-<h3 align="center">
-  Welcome To Nada Badawy's Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi there, I'm Nada Badawy 👋</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer..;Every%20Day%20can%20be%20Start..&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=f75c7e&size=25&center=true&vCenter=true&width=550&lines=Front-End+Developer;IT+Student;Turning+Ideas+Into+Beautiful+Web+Experiences;Always+Learning+New+Things">
 </p>
 
+---
 
+### 🌟 About Me
+- 🎓 IT Student & Passionate Front-End Developer.
+- 💡 I love creating **modern, responsive, and user-focused** web interfaces.
+- 🚀 I believe that **every day is a chance to learn and grow**.
+- 🌍 Portfolio: **https://nadabadawyfathy.github.io/Portofolio**
 
+---
 
-🚀 **About Me:**
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, Css, JavaScript, or anything related to web development.
-- 👨‍💻 Check out my portfolio at [https://nadabadawyfathy.github.io/Portofolio/](https://nadabadawyfathy.github.io/Portofolio/) to see some of the projects I've worked on.
-
-### Connect with Me :
-
-<div align="center">
+### 🤝 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/nada-badawy-6431902a0/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nada-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://t.me/@NaDa_1_1" target="_blank">
-    <img src="https://img.shields.io/badge/Nada-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100040850779325&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/-Nada-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://t.me/NaDa_1_1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
-</div>
-
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-
-
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=NadaBadawyFathy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=NadaBadawyFathy&style=for-the-badge";>
+  <a href="https://www.facebook.com/profile.php?id=100040850779325" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <br/>
-  <br/>
-      
-  <img src="https://streak-stats.demolab.com?user=NadaBadawyFathy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NadaBadawyFathy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaBadawyFathy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+#### **Languages & Core**
+| C++ | Python | HTML5 | CSS3 | JavaScript | TypeScript |
+|----|----|----|----|----|----|
+| ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+
+#### **Frameworks & Styling**
+| Bootstrap | jQuery | SASS | React |
+|----|----|----|----|
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+
+#### **Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NadaBadawyFathy&theme=tokyonight&hide_border=true" height="200" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NadaBadawyFathy&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaBadawyFathy&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NadaBadawyFathy&style=for-the-badge&color=f75c7e">
+</p>
