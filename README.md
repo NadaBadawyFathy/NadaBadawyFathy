@@ -20,6 +20,21 @@
 
 ---
 
+### 🤝 Connect with Me
+<p align="center">   
+  <a href="https://www.linkedin.com/in/nada-badawy-6431902a0/" target="_blank">     
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>   
+  </a>   
+  <a href="https://t.me/NaDa_1_1" target="_blank">     
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>   
+  </a>   
+  <a href="https://wa.me/201151727517" target="_blank">     
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>   
+  </a> 
+</p>  
+
+---
+
 ## 🛠 Skills & Tools
 
 ### 🚀 Front-End Development
