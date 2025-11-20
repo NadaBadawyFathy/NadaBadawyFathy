@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nada Badawy Fathy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f75c7e&size=25&center=true&vCenter=true&width=550&lines=Front-End+Developer;IT+Graduate;Creating+Modern+Web+Experiences;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E1AD4C&size=25&center=true&vCenter=true&width=550&lines=Front-End+Developer;IT+Graduate;Creating+Modern+Web+Experiences;Always+Learning+New+Things">
 </p>
 
 ---
